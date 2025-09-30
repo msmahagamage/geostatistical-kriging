@@ -1,5 +1,3 @@
-# geostatistical-kriging
-
 # MATLAB Toolkit for Geostatistical Kriging Analysis
 
 This project provides a modular and vectorized toolkit for performing 2D geostatistical analysis and interpolation using Ordinary Kriging in MATLAB. The workflow is designed for academic purposes, demonstrating an approach to spatial data analysis, cross-validation, and visualization.
